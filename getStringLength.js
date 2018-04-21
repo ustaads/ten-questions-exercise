@@ -7,3 +7,4 @@ let name = 'Amit Sharma';
 let length = getStringLength(name);
 
 console.log(`${name} has ${length} characters in total.`);
+
