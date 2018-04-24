@@ -19,4 +19,6 @@ let toLowerCase = (string) =>{
 };
 
 
-console.log(toLowerCase('AMinfgkjn IBDFJHV  t'));
+
+
+module.exports= {toLowerCase};
